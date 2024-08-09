@@ -1,16 +1,32 @@
-## Connect with me:
-
-<div align="left">
-  <a href="https://www.facebook.com/mehedi131824" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" style="width: 48px; height: 48px; margin: 10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  <a href="https://t.me/MRX11412" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram" style="width: 48px; height: 48px; margin: 10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  <a href="https://imo.im/MRX11412" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/imo.png" alt="imo" style="width: 48px; height: 48px; margin: 10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  <a href="https://wa.me/qr/CPVBVNDIEVWXH1" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp" style="width: 48px; height: 48px; margin: 10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
+<!-- HTML -->
+<h2>Connect with me</h2>
+<div class="social-links">
+    <a href="https://www.facebook.com/mrxmehedi404" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
+    <a href="https://www.youtube.com/@mrx-mehedi-404" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+    <a href="https://t.me/mrxmehedi404" target="_blank"><img src="https://img.icons8.com/color/48/000000/telegram-app.png"/></a>
+    <a href="https://www.instagram.com/mrxmehedi404" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/></a>
+    <a href="https://x.com/mrxmehedi404" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
+    <a href="https://call.imo.im/mrxmehedi404" target="_blank"><img src="https://img.icons8.com/color/48/000000/imo-messenger.png"/></a>
+    <a href="https://wa.me/qr/CPVBVNDIEVWXH1" target="_blank"><img src="https://img.icons8.com/color/48/000000/whatsapp.png"/></a>
+    <a href="https://www.google.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/domain.png"/></a>
 </div>
+
+<!-- CSS -->
+<style>
+    .social-links {
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+        margin-top: 20px;
+    }
+
+    .social-links img {
+        width: 50px;
+        height: 50px;
+        transition: transform 0.3s;
+    }
+
+    .social-links img:hover {
+        transform: scale(1.2) rotate(10deg);
+    }
+</style>
