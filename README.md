@@ -1,8 +1,16 @@
 ## Connect with me:
 
-<p align="left">
-<a href="https://www.facebook.com/mehedi131824" target="blank"><img align="center" src="https://img.shields.io/badge/-Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-<a href="https://t.me/MRX11412" target="blank"><img align="center" src="https://img.shields.io/badge/-Telegram-%232CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-<a href="https://call.imo.im/MRX11412" target="blank"><img align="center" src="https://img.shields.io/badge/-imo-%230075C2?style=for-the-badge&logo=imo&logoColor=white" alt="imo" /></a>
-<a href="https://wa.me/qr/CPVBVNDIEVWXH1" target="blank"><img align="center" src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-</p>
+<div align="left">
+  <a href="https://www.facebook.com/mehedi131824" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" style="width: 48px; height: 48px; margin: 10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+  <a href="https://t.me/MRX11412" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram" style="width: 48px; height: 48px; margin: 10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+  <a href="https://imo.im/MRX11412" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/imo.png" alt="imo" style="width: 48px; height: 48px; margin: 10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+  <a href="https://wa.me/qr/CPVBVNDIEVWXH1" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp" style="width: 48px; height: 48px; margin: 10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+</div>
