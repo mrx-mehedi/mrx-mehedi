@@ -6,7 +6,6 @@
     <a href="https://t.me/mrxmehedi404" target="_blank"><img src="https://img.icons8.com/color/48/000000/telegram-app.png"/></a>
     <a href="https://www.instagram.com/mrxmehedi404" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/></a>
     <a href="https://x.com/mrxmehedi404" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
-    <a href="https://call.imo.im/mrxmehedi404" target="_blank"><img src="https://img.icons8.com/color/48/000000/imo-messenger.png"/></a>
     <a href="https://wa.me/qr/CPVBVNDIEVWXH1" target="_blank"><img src="https://img.icons8.com/color/48/000000/whatsapp.png"/></a>
     <a href="https://www.google.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/domain.png"/></a>
 </div>
